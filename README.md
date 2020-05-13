@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Notes
+I used https://cors-anywhere.herokuapp.com/ to combat the CORS issue which allows you to append the requested url to the end of the one I linked. Doing this should bypass the issue assuming the heroku app is up and running.
+
 # Get Started
 1) To check out the app please clone this repo locally. 
 `git clone https://github.com/Digald/Flickr-Image-Grabber.git`
